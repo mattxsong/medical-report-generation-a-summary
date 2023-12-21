@@ -1,7 +1,4 @@
----
-title: 'Radiology Report Generation: A Summary'
-summary: 'Radiology Report Generation: A Summary'
----
+# Medical Report Generation: A Summary
 
 <!-- [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) -->
 
